@@ -1,6 +1,6 @@
 // import Search from "./Search"
 
-import Search from "./page";
+import Search from "./Search";
 
 // export const metadata = {
 //   title: 'Create Next App',
